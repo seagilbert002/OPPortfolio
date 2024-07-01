@@ -41,4 +41,6 @@ I made sure the game would function according to their desires.
 How did you approach designing software? What techniques or strategies would you 
 use in the future to analyze and design a similar software application?
 
-Will definitely be using design documents in the future. Even when creating my own programs I plan to use a design document because the functionality allows me to anticipate problems before they occur.
+Will definitely be using design documents in the future. Even when creating my 
+own programs I plan to use a design document because the functionality allows me 
+to anticipate problems before they occur.
